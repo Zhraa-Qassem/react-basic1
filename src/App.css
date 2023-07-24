@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,25 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.header{
+  background-color: #909293;
+  font-size: 40px;
+  text-align: center;
+  color: #483b99;
+}
+.Home{
+background-color: #6da1b4;
+  height: 500px;
+  font-size: 40px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  color: #0b0f11;
+}
+.Footer{
+  background-color: #909293;
+  font-size: 40px;
+  text-align: center;
+  color: #395e33;
 }
